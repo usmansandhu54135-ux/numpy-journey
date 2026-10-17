@@ -6,7 +6,7 @@ My learning log while mastering NumPy, the foundation of data science and machin
 
 | Notebook | Topics |
 |----------|--------|
-| [`first.ipynb`](first.ipynb) | Creating arrays, list vs NumPy speed, zeros/ones/full/random/arange, vectors/matrices/tensors, array properties, reshaping (reshape, flatten, ravel, transpose) |
+| [`01_numpy_basics.ipynb`](01_numpy_basics.ipynb) | Creating arrays,list vs NumPy speed, zeros/ones/full/random/arange, vectors/matrices/tensors, array properties, reshaping (reshape, flatten, ravel, transpose) |
 
 ## Key takeaways
 
@@ -27,7 +27,7 @@ My learning log while mastering NumPy, the foundation of data science and machin
 ## How to run
 
 ```bash
-git clone https://github.com/<your-username>/numpy-journey.git
+git clone https://github.com/usmansandhu54135-ux/numpy-journey.git
 cd numpy-journey
 pip install numpy jupyter
 jupyter notebook
